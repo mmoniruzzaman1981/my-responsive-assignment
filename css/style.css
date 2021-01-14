@@ -1,0 +1,41 @@
+
+.head{
+    background-color:#fffff4;
+}
+.container-fluid img{
+    width: 200px;
+}
+.lx4{
+    width: 300px;
+    height: 200px;
+}
+.categories img{
+    width: 80px;}
+.cb{
+    color:#222333 ;
+    font-size: 40px;
+}
+
+.backpack{
+    font-size:50px;
+    color: #363958;
+    
+}
+.moon{
+    color: #76c27e;
+    font-size: 50px;
+}
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+.categories img{
+    width: 100px;
+}
+.panda-slide .carousel-item{
+    background-color:#fceae8;
+    border-radius: .8em;
+}
